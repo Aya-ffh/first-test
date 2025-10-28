@@ -40,3 +40,7 @@ print(V.notnull())
 S_doublée = S.apply(lambda x: x * 2)
 
 print(S_doublée)
+
+# blalalalala
+print("hy aya")
+c = input = ("entre msg")
